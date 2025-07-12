@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Support page for AutoComment Pro, the AI Chrome Extension for generating impactful LinkedIn comments." />
+  <meta name="keywords" content="AutoComment, Support, Privacy Policy, Chrome Extension, AI, LinkedIn Comments" />
+  <meta name="author" content="AutoComment Pro" />
+  <title>Support - AutoComment Pro</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      line-height: 1.6;
+      background: #f8f9fa;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 2rem;
+    }
+    h1 {
+      color: #1a1a1a;
+      font-size: 2.5rem;
+    }
+    section {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 0.5rem;
+      margin-top: 2rem;
+      color: #111;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    footer {
+      text-align: center;
+      margin-top: 4rem;
+      color: #777;
+    }
+    a {
+      color: #007bff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Support - AutoComment GPT</h1>
+    <p>Thank you for using our Chrome extension to generate LinkedIn comments with AI.</p>
+  </header>
+
+  <section>
+    <h2>Support</h2>
+    <p>For any questions, contact us at: <a href="mailto:autocomment.supp@gmail.com">autocomment.supp@gmail.com</a></p>
+
+    <h2>Privacy Policy</h2>
+    <p>AutoComment GPT is committed to respecting users' privacy.</p>
+
+    <h2>Data Collected</h2>
+    <ul>
+      <li>Email address provided during secure payment via Stripe</li>
+      <li>User identifier (userId) generated to associate credits with each user</li>
+    </ul>
+    <p>No other personal data is collected. We do not collect your name, messages, or browsing activity.</p>
+
+    <h2>Use of Data</h2>
+    <p>Data is used exclusively to:</p>
+    <ul>
+      <li>Link credits to your account</li>
+      <li>Enable credit recovery even after browser changes</li>
+    </ul>
+    <p>We do not sell, share, or transfer your data to third parties.</p>
+
+    <h2>Storage & Security</h2>
+    <p>Data is securely stored in our database. Payments are processed via Stripe, a PCI-DSS certified platform. We never store your credit card information.</p>
+
+    <h2>Your Rights</h2>
+    <p>You can request the deletion of your data (email and userId) at any time by contacting us at: <a href="mailto:autocomment.supp@gmail.com">autocomment.supp@gmail.com</a></p>
+
+    <h2>Credits</h2>
+    <p>Your credits are automatically linked to the email used during payment. If you switch browsers, click on "Recover My Credits" to restore them.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 AutoComment Pro. All rights reserved.</p>
+  </footer>
+</body>
+</html>
